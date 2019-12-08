@@ -1,2 +1,0 @@
-# sharpie
-just a newbie
